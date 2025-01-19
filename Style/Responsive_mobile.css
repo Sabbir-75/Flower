@@ -1,0 +1,25 @@
+@media screen and (max-width: 576px) {
+     
+    .Banner_div{
+        flex-direction: column;
+        gap: 2s0px;
+    }
+    .banner_text{
+        max-width: 90%;
+        margin: 50px 30px auto 30px;
+    }
+    .h1_text{
+        font-size: 4rem;
+        margin-bottom: 20px;
+    }
+    .p_text{
+        font-size: 1rem;
+        line-height: 15px;
+        margin-bottom: 20px;
+    }
+    .button_btn{
+        font-size: 0.8rem;
+        padding: 10px 30px;
+        margin-bottom: 20px;
+    }
+}
