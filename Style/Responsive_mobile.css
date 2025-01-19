@@ -9,7 +9,7 @@
         margin: 50px 30px auto 30px;
     }
     .h1_text{
-        font-size: 4rem;
+        font-size: 3.5rem;
         margin-bottom: 20px;
     }
     .p_text{
@@ -22,4 +22,81 @@
         padding: 10px 30px;
         margin-bottom: 20px;
     }
+    .banner_text{
+        width: 100%;
+    }
+    .banner_image{
+        width: 90%;
+    }
+
+
+
+
+
+
+
+
+
+    .Featured{
+        margin-top: 100px;
+    }
+    .Featured_cards{
+        gap: 15px;
+        flex-direction: column;
+        margin-right: 40px;
+    }
+
+    .h3_text{
+        font-size: 2rem;
+        margin-bottom: 15px;
+    }
+    .flower_div1{
+        max-width: 80%;
+        padding: 90px 100px 0px 20px;
+    }
+    .flower_div2{
+        max-width: 80%;
+        margin: 0 auto 0 40px;
+        padding: 130px 100px 30px 20px;
+    }
+   .flower_img2{
+    width: 300px;
+   }
+    .flower_img2 img{
+        width: 100%;
+    }
+    .flower_div3{
+        max-width: 80%;
+        padding: 90px 100px 0px 20px;
+    }
+    
+    .Featured_div > .p_textt{
+        width: 90%;
+        font-size: 1rem;
+        line-height: 15px;
+        margin-bottom: 20px;
+    }
+    .span_title{
+        font-size: 1.2rem;
+        margin-top: 25px;
+     }
+
+
+
+
+
+
+     .contact_card{
+       flex-direction: column;
+     }
+     .contact{
+        width: 70%;
+        padding: 20px 40px 20px 40px;
+     }
+     .P_cont{
+        font-size: 1.2rem;
+        margin-top: 15px;
+        color: rgba(39, 39, 39, 0.8);
+        text-align: center;
+     }
 }

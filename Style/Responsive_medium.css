@@ -2,6 +2,7 @@
      
     .Banner_div{
         flex-direction: column;
+       align-items: center;
         gap: 25px;
     }
     .banner_text{
@@ -22,4 +23,50 @@
         padding: 15px 35px;
         margin-bottom: 25px;
     }
+
+
+
+
+    .Featured{
+        margin-top: 150px;
+    }
+    .Featured_cards{
+        gap: 20px;
+        flex-direction: column;
+    }
+    .h3_text{
+        font-size: 2.3rem;
+        margin-bottom: 20px;
+    }
+    
+    .Featured_div > .p_textt{
+        font-size: 1.2rem;
+        line-height: 25px;
+        margin-bottom: 30px;
+    }
+    .span_title{
+        font-size: 1.5rem;
+        margin-top: 30px;
+     }
+
+
+
+
+
+
+
+     .contact_card{
+        flex-direction: column;
+        align-items: center;
+      }
+      .contact{
+         width: 90%;
+         padding: 40px 80px 40px 80px;
+      }
+      .P_cont{
+         font-size: 1.3rem;
+         margin-top: 20px;
+         color: rgba(39, 39, 39, 0.8);
+         text-align: center;
+      }
 }
